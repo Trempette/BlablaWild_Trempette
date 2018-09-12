@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BlablaWild</string>
+    <string name="buttonItinary">SEARCH AN ITINARY</string>
+    <string name="SearchMenu">ITINARY SEARCH MOTHERFUCKER !!!</string>
+    <string name="search_text">Search MODAFUKA</string>
+    <string name="Departure">Departure</string>
+    <string name="Destination">Destination</string>
+    <string name="Date">Date</string>
+    <string name="toast">You must write departure and destination location</string>
+    <string name="dateHint">01/01/1970</string>
+    <string name="search_button">GO FIND ME A HORSE !</string>
+</resources>

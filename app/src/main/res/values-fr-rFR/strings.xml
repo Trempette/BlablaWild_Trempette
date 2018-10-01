@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlablaSauvage</string>
+    <string name="dateHint">01/01/1970</string>
+    <string name="Date">Date</string>
+    <string name="Departure">Depart</string>
+    <string name="Destination">Destination</string>
+    <string name="search_button">TROUVE MOI UN DESTRIER !</string>
+    <string name="SearchMenu">RESULATS DE LA RECHERCHE BATAR</string>
+    <string name="buttonItinary">CHERCHE UN ITINERAIRE</string>
+    <string name="search_text">CHERCHE BATAR</string>
+    <string name="toast">Tu dois écrire un lieu de départ et d\'arrivée</string>
+</resources>

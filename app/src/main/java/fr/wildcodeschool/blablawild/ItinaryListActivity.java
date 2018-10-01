@@ -38,7 +38,7 @@ public class ItinaryListActivity extends AppCompatActivity {
            Toast toast = Toast.makeText(this, "exception", Toast.LENGTH_LONG);
             toast.show();
         }
-        
+
 
         TripAdapter adapter = new TripAdapter(this, results);
         listTrip.setAdapter(adapter);
